@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/akash/AndroidStudioProjects/SwasthTesting/C:\\Users\\Mitali\\Downloads\\Swasth\\SwasthTesting\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "/home/akash/AndroidStudioProjects/SwasthTesting/C:\\Users\\Mitali\\Downloads\\Swasth\\SwasthTesting\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/akash/AndroidStudioProjects/SwasthTesting/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/home/akash/AndroidStudioProjects/SwasthTesting/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
